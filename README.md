@@ -14,7 +14,7 @@
 - ***Power BI**: Plataforma de visualización interactiva y análisis de datos para generar reportes y dashboards de impacto.*
 
 ## 🤖 *Lenguajes de programación y herramientas:*
-- *Python: Mi lenguaje principal. Potente, versátil e ideal para ciencia de datos, scripting, automatización y desarrollo de modelos ML. Aquí he usado librerías como:
+- *Python: Mi lenguaje principal. Potente, versátil e ideal para ciencia de datos, scripting, automatización y desarrollo de modelos ML. Aquí he usado librerías como:*
   * `pandas`, `numpy`: *Manipulación y análisis de datos*
   * `matplotlib`, `seaborn` : *Visualización*
   * `scikit-learn`: *Algoritmos de Machine Learning*
@@ -74,7 +74,7 @@
 - *Full Exploratory Data Analysis (EDA) using `heatmaps`, `scatterplots`, `histogramas`, and more.*
 - *A robust data preprocessing pipeline: handling missing values, encoding categorical variables, feature scaling, and transformations.*
 - *Regularization & optimization techniques using `GridSearchCV`, `cross-validation`, and `model tuning`.*
-- *Model performance comparison using metrics like `MSE` (Mean Squared Error) and `R²` (Coefficient of Determination).
+- *Model performance comparison using metrics like `MSE` (Mean Squared Error) and `R²` (Coefficient of Determination).*
 - *Interactive plots and visual storytelling to help you grasp the "why" behind each model and decision.*
   
 ---
