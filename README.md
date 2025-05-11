@@ -80,9 +80,10 @@
 ---
 
 ⚠️ ***Disclaimer***
+
 *The datasets used in these projects are property of their respective owners and are included strictly for educational purposes. These projects have no commercial intent and contain simplifications or approximations for illustrative learning.*
 
 ⭐️***Thanks for stopping by!*** *If something here helps you, inspires you, or sparks your curiosity, feel free to connect with me..*
 
-*Welcome aboard*
+*Welcome aboard*.
 - 📫 How to reach me: [¡Visita Linkendin](https://www.linkedin.com/in/orionis-di-ciaccio-168592185/) 
