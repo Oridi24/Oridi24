@@ -3,6 +3,8 @@
 
 *Este perfil es una ventana a mi proceso de aprendizaje en el fascinante universo del Big Data, la Arquitectura Cloud, el Machine Learning, Deep Learning y más allá, donde vas a encontrar proyectos, experimentos y muchas ganas de entender cómo funcionan las tecnologías que están transformando el mundo. A lo largo del camino, he explorado y aplicado un amplio abanico de herramientas y lenguajes que quiero compartir contigo.*
 
+✅ *[Check out Portfolio](https://github.com/Oridi24/Portfolio.git)*
+
 ***Aquí te dejo una guía de lo que encontrarás, organizada por categorías para que no te pierdas:***
 
 ## 🧠 *Tecnologías y disciplinas:*
