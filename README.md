@@ -8,6 +8,7 @@
 ***Aquí te dejo una guía de lo que encontrarás, organizada por categorías para que no te pierdas:***
 
 ## 🧠 *Tecnologías y disciplinas:*
+- ***Deep Learning (DL):** Currentlyn working on this*
 - ***Machine Learning (ML)**: Subcampo de la inteligencia artificial que enseña a las máquinas a aprender de los datos. Aquí encontrarás proyectos de regresión, clasificación, detección de outliers, validación cruzada, tuning de hiperparámetros, etc.*
 - ***Big Data**: Procesamiento y análisis de grandes volúmenes de datos a través de tecnologías distribuidas.*
 - ***Cloud Computing (GCP)**: Uso de Google Cloud Platform para el despliegue de modelos, almacenamiento y procesamiento en la nube.*
