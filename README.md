@@ -52,6 +52,8 @@
 
 *This GitHub profile is a window into my learning process — a space where I document and share my hands-on experiences as I explore the powerful technologies shaping the future of data and AI. Throughout my journey, I’ve been diving into exciting tools, languages, and frameworks that bring data to life — and I want to share that path with you 🚀.*
 
+✅ *[Check out Portfolio](https://github.com/Oridi24/Portfolio.git)*
+
 ***Here's a breakdown of what you'll find here, neatly organized by category:***
 
 ## 🧠 *Technologies & Disciplines:*
