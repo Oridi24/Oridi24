@@ -31,7 +31,7 @@
 - ***Scala**: Functional and object-oriented language, often paired with Spark for scalable data processing in real-time or batch environments.*
   
 ## 🔍 *¿What You’ll Find Here?*
-- *NLP: `CountVectorizer`, `TfidfVectorizer`, `n_gram_range`, `stopwords.words`, `re.sub()`, `word_tokenize`, etc.*
+- *NLP: `CountVectorizer`, `TfidfVectorizer`, `n_gram_range`, `stopwords.words`, `re.sub()`, `word_tokenize`, `word2vec` etc.*
 - *Deep Learning classification projects: `torch.nn`, `autograd`, `BCEWithLogitsLoss`, `tqdm`, `torchvision.transforms` 
 - *Regression projects using models like `Lasso`, `Ridge`, `Decision Trees`, `HistGradientBoosting`, and others.*
 - *Full Exploratory Data Analysis (EDA) using `heatmaps`, `scatterplots`, `histograms`, and more.*
