@@ -40,9 +40,9 @@
 - *Model performance comparison using metrics like `MSE` (Mean Squared Error), `R²` (Coefficient of Determination), `confusion_matrix`.`classification_report`, `recall`,`accuracy_score`, `f1_score`, etc.*
 - *Interactive plots and visual storytelling to help you grasp the "why" behind each model and decision.*
   
----
 
-⚠️ ***Disclaimer***
+
+## ⚠️ ***Disclaimer***
 
 *The datasets used in these projects are property of their respective owners and are included strictly for educational purposes. These projects have no commercial intent and contain simplifications or approximations for illustrative learning.*
 
