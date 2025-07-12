@@ -22,7 +22,7 @@
 - ***Python**: My main language — versatile, beginner-friendly, and rich in libraries. Great for automation, data science, machine learning, DL, and NLP. Key libraries used:*
   *  `pandas`, `numpy`: *Data manipulation and analysis*
   *  `matplotlib`, `seaborn`: *Data visualization*
-  * `scikit-learn`: *Machine learning algorithms, NLP processing, predictive analysis, preprocessing, dimensionality reduction, clustering, regression, and classification.*
+  * `scikit-learn`: *Machine learning algorithms, NLP processing, predictive analysis, preprocessing, dimensionality reduction, text vectorization, clustering, regression, and classification.*
   * `xgboost`, `lightgbm`: *Advanced gradient boosting models*
   * `pyTorch`,`optuna`: *Neuronal networks, Convolutional networks, optimization, etc.*
   * `spaCy`, `NLTK`, `gensim`: *Stemming, lemmatization, Extracción de n-gramas, Tokenización, NER, topic modeling, word embedding.*
