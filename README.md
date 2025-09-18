@@ -8,7 +8,6 @@
 
 ✅ *[Check out Portfolio](https://github.com/Oridi24/Portfolio.git)*
 
-⚠️ *Due to confidentiality, this portfolio includes reproductions of professional work and/or academic projects using public datasets. All data used is either publicly available or authorized to be shared, ensuring compliance with ethical and confidentiality standards."*
 
 ***Here's a breakdown of what you'll find here, neatly organized by category:***
 
@@ -48,7 +47,8 @@
 
 ## ⚠️ ***Disclaimer***
 
-*The datasets used in these projects are property of their respective owners and are included strictly for educational purposes. These projects have no commercial intent and contain simplifications or approximations for illustrative learning.*
+
+*Due to confidentiality, this portfolio includes reproductions of professional work and/or academic projects using public datasets. All data used is either publicly available or authorized to be shared, ensuring compliance with ethical and confidentiality standards.It contains simplifications or approximations for illustrative purposes, and has no commercial intent.*
 
 ⭐️***Thanks for stopping by!*** *If something here helps you, inspires you, or sparks your curiosity, feel free to connect with me..*
 
@@ -102,7 +102,7 @@
 ---
  ⚠️ ***Disclaimer***
 
-*Todos los proyectos publicados aquí tienen una finalidad pedagógica. Algunos de los datasets pertenecen a terceros y son utilizados únicamente con fines educativos, sin ningún propósito comercial.*
+*Por motivos de confidencialidad, este portafolio incluye reproducciones de trabajos profesionales y/o proyectos académicos que utilizan conjuntos de datos públicos. Todos los datos utilizados están disponibles públicamente o su uso está autorizado, lo que garantiza el cumplimiento de los estándares éticos y de confidencialidad. Contiene simplificaciones o aproximaciones con fines ilustrativos y no tiene ninguna finalidad comercial.*
 
 ⭐️ ***Gracias por pasarte**. Si algún proyecto te sirve de ayuda, o simplemente te resulta interesante, no dudes en conectar conmigo. ¡Estoy siempre aprendiendo!*
 
