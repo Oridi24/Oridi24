@@ -8,7 +8,7 @@
 
 ✅ *[Check out Portfolio](https://github.com/Oridi24/Portfolio.git)*
 
-
+⚠️ *Due to confidentiality, this portfolio includes reproductions of professional work and/or academic projects using public datasets. All data used is either publicly available or authorized to be shared, ensuring compliance with ethical and confidentiality standards."*
 
 ***Here's a breakdown of what you'll find here, neatly organized by category:***
 
