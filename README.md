@@ -12,6 +12,7 @@
 ***Here's a breakdown of what you'll find here, neatly organized by category:***
 
 ## 🧠 *Technologies & Disciplines:*
+- ***Analytics:*** *bridges data and decision-making. It involves collecting, processing, and interpreting data to uncover trends, measure performance, and guide strategic actions. From exploratory data analysis and business intelligence dashboards to predictive modeling and A/B testing, analytics transforms raw information into meaningful insights that drive measurable impact.*
 - ***Natural language processing (NLP)**: a field at the intersection of linguistics, computer science, and AI. It focuses on enabling machines to understand, interpret, and generate human language. NLP powers a wide range of applications such as chatbots, sentiment analysis, machine translation, and more.*
 - ***Deep Learning (DL):** a type of AI that uses neural networks with multiple layers to analyze data and learn complex patterns. My project features a custom CNN for visual analysis, a feedforward network for tabular data, and fusion for binary classification. Includes preprocessing, geospatial clustering, normalization, training loop with early stopping, model evaluation, and more.*
 - ***Machine Learning (ML)**: A core branch of Artificial Intelligence that enables machines to learn from data without being explicitly programmed. You'll find projects involving regression, classification, outlier detection, cross-validation, hyperparameter tuning, and more.*
